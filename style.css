@@ -1,0 +1,35 @@
+* {
+    background-color: blanchedalmond;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+}
+
+.ul-index {
+    font-weight: 800;
+}
+
+.imgrecipes {
+    height: 300px;
+    width: 400px;
+}
+
+.divimg {
+    text-align: center;
+}
+
+.backbutton {
+    font-weight: bold;
+}
+
+h2 {
+    text-align: center;
+}
+
+.descriparaph {
+    font-weight: 550;
+}
+
